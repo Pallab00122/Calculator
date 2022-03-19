@@ -1,5 +1,5 @@
 h1 {
-  font-size: 50px;
+  font-size: 7.7vh;
   text-decoration: underline;
 }
 .container,
@@ -7,16 +7,16 @@ h1 {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-bottom: 40px;
-  margin-top: 40px;
+  margin-bottom: 6.1vh;
+  margin-top: 6.1vh;
 }
 #no,
 #no1 {
   border: none;
   border-bottom: 2px solid red;
   /* width:fit-content; */
-  max-width: 50px;
-  margin-right: 20px;
+  max-width: 3.6vw;
+  margin-right: 1.46vw;
   /* margin-top:100px; */
 }
 * {
