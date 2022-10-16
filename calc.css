@@ -13,10 +13,10 @@ h1 {
 #no,
 #no1 {
   border: none;
-  border-bottom: 2px solid red;
+  border-bottom: 2.1px solid red;
   /* width:fit-content; */
-  max-width: 3.6vw;
-  margin-right: 1.46vw;
+  max-width: 3.7vw;
+  margin-right: 1.47vw;
   /* margin-top:100px; */
 }
 * {
@@ -28,5 +28,5 @@ button {
   margin-right: 2.2vw;
 }
 .btn p {
-  border-bottom: 2px solid red;
+  border-bottom: 2.2px solid red;
 }
